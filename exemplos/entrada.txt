@@ -1,0 +1,4 @@
+Exemplo de Entrada de Dados:
+
+Digite seu peso (kg): 70
+Digite sua altura (m): 1.75

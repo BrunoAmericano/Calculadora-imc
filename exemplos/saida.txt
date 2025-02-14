@@ -1,0 +1,4 @@
+Exemplo de Saída de Dados:
+
+Seu IMC é: 22.86
+Classificação: Peso normal
